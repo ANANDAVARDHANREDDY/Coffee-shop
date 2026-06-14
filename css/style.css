@@ -576,6 +576,10 @@ h1, h2, h3, h4, h5, h6, .font-serif {
   padding: 8rem 0;
 }
 
+#gallery p, #gallery .text-muted {
+  color: #ebd1bc !important;
+}
+
 .gallery-grid img {
   height: 350px;
   width: 100%;
