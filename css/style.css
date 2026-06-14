@@ -1214,3 +1214,7 @@ h1, h2, h3, h4, h5, h6, .font-serif {
     max-width: 100vw;
   }
 }
+
+footer .text-muted, footer p {
+  color: #ebd1bc !important;
+}
