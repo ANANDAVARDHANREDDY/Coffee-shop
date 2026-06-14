@@ -1218,3 +1218,7 @@ h1, h2, h3, h4, h5, h6, .font-serif {
 footer .text-muted, footer p {
   color: #ebd1bc !important;
 }
+
+#brew-configurator .text-muted, #brew-configurator p {
+  color: #ebd1bc !important;
+}
